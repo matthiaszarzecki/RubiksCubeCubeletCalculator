@@ -20,4 +20,4 @@ Regular (non-Rubik's) Cube: 6 outside cubes
 ```
 
 ## For this code-excercise:
-https://www.codewars.com/kata/count-the-number-of-cubes-with-paint-on/discuss
+https://www.codewars.com/kata/count-the-number-of-cubes-with-paint-on
