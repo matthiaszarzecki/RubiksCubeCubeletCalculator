@@ -2,8 +2,8 @@
 
 Algorithm that calculates out of how many "outside" cubes a Rubik's Cube consists based on subdivisions on each side, for this code-excercise: https://www.codewars.com/kata/count-the-number-of-cubes-with-paint-on/discuss
 
-Regular (non-Rubik's) Cube: 6 outside cubes
-1 subdivision:              8 outside cubes
+* Regular (non-Rubik's) Cube: 6 outside cubes
+* 1 subdivision:              8 outside cubes
 2 subdivisions:             26 outside cubes
 2 subdivisions:             56 outside cubes
 4 subdivisions:             98 outside cubes
