@@ -1,3 +1,5 @@
+//Runs in a playground
+
 func calculateOutsideRubiksCubeletsForSubdivisions(_ divisions: Int) -> Int {
     //Standard Cube has 6 sides
     if divisions == 0 {
